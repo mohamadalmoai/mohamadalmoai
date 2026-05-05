@@ -30,14 +30,6 @@
 * Linux practice
 * Security labs (beginner level)
 
-👉 Check my repositories for more details!
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github.com/mohamadalmoai)
-
 ---
 
 ## 📫 Connect With Me
