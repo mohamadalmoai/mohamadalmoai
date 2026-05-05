@@ -18,23 +18,11 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px"/>
 </p>
 
 ---
-
-## 📂 Projects
-
-🔹 **Java Projects**
-
-* Console Applications (OOP concepts)
-* Data Structures implementations
-
-🔹 **Web Projects**
-
-* Simple frontend projects (HTML, CSS, JS)
 
 🔹 **Cybersecurity Practice**
 
