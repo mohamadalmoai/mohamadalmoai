@@ -7,10 +7,10 @@
 ## 🚀 About Me
 
 * 🎓 IT student with strong interest in software development
-* 💻 Focused on **Java (OOP, Data Structures, Backend Basics)**
+* 💻 Focused on **Java (OOP, Data Structures, hacking)**
 * 🔐 Currently learning **Cybersecurity & Networking**
 * 🧠 Passionate about problem solving and continuous learning
-* 🎯 Goal: Become a **Backend Developer / Security Specialist**
+* 🎯 Goal: Become a **Security Specialist**
 
 ---
 
