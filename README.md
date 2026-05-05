@@ -36,14 +36,14 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats]((https://github.com/mohamadalmoai))
+![GitHub Stats](https://github.com/mohamadalmoai)
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (your link here)
-* 📧 Email: (your email here)
+
+* 📧 Email: (almoaimohamad7@gmail.com)
 
 ---
 
